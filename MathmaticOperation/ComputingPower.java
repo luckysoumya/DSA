@@ -13,8 +13,5 @@ public class ComputingPower {
         }
         return result;
     }
-    public static int powerOfNumberOptimization(int x,int y){
 
-
-    }
 }
